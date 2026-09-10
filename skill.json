@@ -1,0 +1,17 @@
+{
+  "name": "genpark-hilbert-transform-analytic-signal-skill",
+  "version": "1.0.0",
+  "description": "Hilbert transform and analytic signal synthesis engine extracting instantaneous envelope, phase angle, and frequency modulation profiles.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hilbert-transform",
+    "analytic-signal",
+    "envelope-detector",
+    "instantaneous-frequency",
+    "demodulation"
+  ],
+  "dependencies": []
+}
